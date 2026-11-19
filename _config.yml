@@ -2,3 +2,5 @@ theme: minima
 title: Abstract algebra course
 description: Modelisation of basic stuff
 author: Camel-glitch
+kramdown:
+  math_engine: katex
