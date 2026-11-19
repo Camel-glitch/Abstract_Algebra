@@ -1,4 +1,9 @@
 ### Introduction to Internal Composition Laws (ICL)
+Here is an equation:
+
+$$
+E = mc^2
+$$
 
 **Real-life examples:**
 * Mixing two colors.
