@@ -10,7 +10,7 @@
 > 
 > Alternatively, you can see $2 + 3 = 5$ as an object equation where you do nothing—you only describe that if you have one box with $2$ apples and one with $3$, then you have $5$ apples.
 
-**Definition:** $$* : E \times E \to E$$
+**Definition:** A ICL is defined as $$* : E \times E \to E$$, it can simply seen as a composition operator. 
 
 **Why is it useful?**
 Having this closure property makes software robust. We can compute as much as we want and never output an unexpected type.
